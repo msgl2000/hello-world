@@ -1,2 +1,2 @@
 # hello-world
-curso
+curso primer repositorio creado por mi.
